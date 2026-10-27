@@ -8,10 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@notionhq/client": "2.2.15",
+    "@perplexity-ai/perplexity_ai": "0.41.0",
+    "firebase": "10.13.0",
     "next": "14.2.34",
     "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "firebase": "10.13.0",
-    "@notionhq/client": "2.2.15"
+    "react-dom": "18.3.1"
   }
 }

@@ -147,6 +147,7 @@ Click **New variable** for EACH of these (paste the value you saved earlier):
 | `NOTION_TRADES_DB` | `1670f48f83124bff8636fc89ce3c183b` |
 | `NOTION_FINANCIAL_ACCOUNTS_DB` | `a08ec7fdf1d542ea8e180f97024a6cfe` |
 | `NEXT_PUBLIC_ADMIN_EMAIL` | **your admin email from Step 1.4** |
+| `PERPLEXITY_API_KEY` | *(optional)* from console.perplexity.ai — enables web-grounded answers at `/api/ask` |
 
 Click **Deploy site**.
 
